@@ -1,0 +1,23 @@
+body {
+    background-image: url('luann-hunt-754710-unsplash.jpg');
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    padding: 20px 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+input::placeholder {
+    text-align: center;
+}
+#main {
+    background-color: rgba(255,255,255,.8);
+    position: absolute;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    top:30%;
+    text-align: center;
+    min-height: 100px;
+    padding: 10px;
+}
